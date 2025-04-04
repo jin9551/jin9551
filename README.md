@@ -1,5 +1,11 @@
 # Welcome To My GitHub! 👋
 
+GitHub stats is not updating correctly right now. 
+Check out repositories that are public.
+
+현재 깃헙 스탯이 정상적으로 업데이트되고 있지 않습니다.
+public으로 오픈된 레포들 확인해 보시면 되겠습니다.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin9551)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin9551)](https://github.com/anuraghazra/github-readme-stats)
