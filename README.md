@@ -19,7 +19,7 @@ public으로 오픈된 레포들 확인해 보시면 되겠습니다.
 + University of Texas
 + Computer Science (BCS degree)
 + wlsgk9551@gmail.com
-
++ Blog : https://hobbyatelier.tistory.com
 ## :school_satchel: Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
